@@ -1,0 +1,1 @@
+This is a second test file created for dummy PR 2. Safe to delete.
